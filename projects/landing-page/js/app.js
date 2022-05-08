@@ -83,16 +83,11 @@ anchorList.forEach(function (anchor)
     stop.preventDefault();
 //using hash property to locate the section
     const destination = document.querySelector(this.hash);
+//Scroll smoothly to the element
     destination.scrollIntoView(
     {
       behavior: 'smooth'
     });
   }
 })
-/**
- * End Main Functions
- * Begin Events
- * 
- */
-// Build menu 
-// Set sections as active
+//End Main Functions
