@@ -16,6 +16,8 @@ For specific, detailed instructions, look at the project instructions in the Uda
 
    - Made the sections collapsible.
 
+   - linked the app.js file.
+
 ##### css file updates: 
 
    - Added a red border to the active section to make active state while scrolling more visible.
@@ -28,4 +30,7 @@ For specific, detailed instructions, look at the project instructions in the Uda
 
    - Preventing the default action for clicking the anchor links and adding a smooth scroll method.
 
+### Resources :
+
+   - A lot of internet search was done on how to fulfill the project and i only picked the solutions that i can fully understand even if they are not the best and made modifications to fulfill the needs of the project.
      
